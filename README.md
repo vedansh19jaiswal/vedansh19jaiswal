@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently working on machine learning project for creating chatbot
-🌱 I’m currently learning git hub
- 👯 I’m looking to collaborate on gfg
- 🤔 I’m looking for help with gfg
-💬 Ask me about everything
+ 🔭 I’m currently working on data science and machine learning project for incresing accuracy of weather prediction of data provides by WIDS DATATHON
+🌱 I’m currently exploring my field
+ 👯 I’m looking to collaborate on gfg and Intel
+ 🤔 I’m looking for help with gfg and Intel
+💬 Ask me about anything
 📫 How to reach me: mail me vedanshdnr@gmail.com 😄 Pronouns: ved or vedansh
 ⚡ Fun fact: ...
 
